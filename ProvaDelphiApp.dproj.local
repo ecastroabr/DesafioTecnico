@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/11 19:32:38.000.551,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmPrincipal.dfm=C:\Projetos\SoftPlan\Eduardo\View\View.Principal.dfm</Transaction>
+    <Transaction>2021/08/11 19:32:38.000.551,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmPrincipal.pas=C:\Projetos\SoftPlan\Eduardo\View\View.Principal.pas</Transaction>
+    <Transaction>2021/08/11 19:34:35.000.384,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa2.dfm=C:\Projetos\SoftPlan\Eduardo\View\ufTarefa2.dfm</Transaction>
+    <Transaction>2021/08/11 19:34:35.000.384,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa2.pas=C:\Projetos\SoftPlan\Eduardo\View\ufTarefa2.pas</Transaction>
+    <Transaction>2021/08/11 19:35:07.000.738,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa3.dfm=C:\Projetos\SoftPlan\Eduardo\View\ufTarefa3.dfm</Transaction>
+    <Transaction>2021/08/11 19:35:07.000.738,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa3.pas=C:\Projetos\SoftPlan\Eduardo\View\ufTarefa3.pas</Transaction>
+    <Transaction>2021/08/11 19:35:25.000.677,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa1.pas=C:\Projetos\SoftPlan\Eduardo\View\ufTarefa1.pas</Transaction>
+    <Transaction>2021/08/11 19:35:25.000.677,C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa1.dfm=C:\Projetos\SoftPlan\Eduardo\View\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/08/11 20:19:16.000.739,C:\Projetos\SoftPlan\Eduardo\Formulario\ufTarefa1.pas=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa1.pas</Transaction>
+    <Transaction>2021/08/11 20:19:16.000.739,C:\Projetos\SoftPlan\Eduardo\Formulario\ufTarefa1.dfm=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa1.dfm</Transaction>
+    <Transaction>2021/08/11 20:20:01.000.225,C:\Projetos\SoftPlan\Eduardo\Formulario\ufTarefa2.pas=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa2.pas</Transaction>
+    <Transaction>2021/08/11 20:20:01.000.225,C:\Projetos\SoftPlan\Eduardo\Formulario\ufTarefa2.dfm=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa2.dfm</Transaction>
+    <Transaction>2021/08/11 20:23:34.000.563,C:\Projetos\SoftPlan\Eduardo\Formulario\ufTarefa3.pas=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa3.pas</Transaction>
+    <Transaction>2021/08/11 20:23:34.000.563,C:\Projetos\SoftPlan\Eduardo\Formulario\ufTarefa3.dfm=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmTarefa3.dfm</Transaction>
+    <Transaction>2021/08/11 20:25:08.000.811,C:\Projetos\SoftPlan\Eduardo\Formulario\ufPrincipal.dfm=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/08/11 20:25:08.000.811,C:\Projetos\SoftPlan\Eduardo\Formulario\ufPrincipal.pas=C:\Projetos\SoftPlan\Eduardo\Formulario\uFrmPrincipal.pas</Transaction>
+  </Transactions>
+</BorlandProject>
